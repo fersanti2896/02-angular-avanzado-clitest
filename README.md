@@ -1,4 +1,4 @@
-# S2
+# Resumen de la Sección 2: Dominando la creación automática del Angular CLI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
 
